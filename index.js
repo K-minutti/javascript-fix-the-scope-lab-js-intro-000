@@ -6,7 +6,8 @@ function myAnimal() {
 }
 
 function yourAnimal(animals) {
-  var animal = "animals"
+  var animal
+  animal = `"${animals}"`
   return  animal
 }
 
