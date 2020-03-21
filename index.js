@@ -5,8 +5,8 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal() {
-  var animal
+function yourAnimal(animals) {
+  var animal = ${animals}
   return  animal
 }
 
