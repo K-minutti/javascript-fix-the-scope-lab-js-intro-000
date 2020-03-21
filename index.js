@@ -7,7 +7,6 @@ function myAnimal() {
 
 function yourAnimal(animals) {
   var animal
-  animal = `"${animals}"`
   return  animal
 }
 
